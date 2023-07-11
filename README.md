@@ -11,8 +11,7 @@
 
 Hello! I'm [Shurvirsinh Sisodiya](https://link.shurvir.com/portfolio), an innovative Front End Developer with a knack for crafting engaging, intuitive user experiences. With proficiency in modern technologies like React and Angular, and a wealth of experience from my tenure at SAP Company, I am committed to delivering top-notch web applications that surpass expectations. Dive in and explore the world I create with code!
 
-
-<img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
+<img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Contact Me](https://link.shurvir.com/portfolio);
